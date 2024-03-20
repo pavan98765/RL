@@ -20,8 +20,6 @@ This repository contains a collection of Colab notebooks demonstrating various R
 
 <img src="results/gifs/aws_deep_racer_2.gif" width="300" height="300" alt="Alt text">
 
-hi
-
 ## A3C on Kung Fu Master
 
 **Environment**: Kung Fu Master Arcade Game  
