@@ -7,22 +7,22 @@ This repository contains a collection of Colab notebooks demonstrating various R
 ### A3C Kung Fu
 
 Explore the application of Asynchronous Advantage Actor-Critic (A3C) algorithm in a Kung Fu setting.
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1anhsl9AGsTMMapq3tuhQBghW0d4fqHmS)
-
-### LLM
-
-Dive into Language Learning Models (LLM) within an RL framework.
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1DeOMMqm9hgCGhWMmM1qexeLYJUtPSxVc)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1bG7xTR0a7jfnuNar95ZRKARWdM2Yt3Ot?usp=sharing)
 
 ### Lunar Landing
 
 Try your hand at safely landing a module on the lunar surface.
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1SgdMlL2zM2HERCBJ5yhpVtbO7QtdDGMh)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1tCVgMSGpgeSafpUNDd9gmyBGSXXwa0z3?usp=sharing)
 
 ### Pacman
 
 Navigate the Pacman through mazes and away from ghosts.
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/19ZZJCRdLLAJsJB3XVmCS6Kq315UKqAJa)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1mTYEZmGm04Su7ero_4Uyf68g3k37-NBu?usp=sharing)
+
+### LLM fine tune
+
+Dive into Language Learning Models (LLM) within an RL framework.
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1x07SoAGuwVWEok0sxhGeTeykpy1rp7ie?usp=sharing)
 
 ## Getting Started
 
