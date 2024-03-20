@@ -2,7 +2,23 @@
 
 This repository contains a collection of Colab notebooks demonstrating various Reinforcement Learning (RL) environments. Each environment showcases different algorithms and challenges. Click on the badges to access the notebooks directly.
 
-## Environments and Notebooks
+# Results
+
+### A3C on Kung Fu Master
+
+![img](#results/gifs/KungFu.gif)
+
+### Lunar Landing with Deep Q-Networks
+
+![img](#results/gifs/moon.gif)
+
+### Pacman with Deep Q-Networks
+
+![img](#results/gifs/pacman.gif)
+
+### AWS deep racer - PPO
+
+![img](#results/gifs/aws_deep_racer_2.gif)
 
 ## A3C on Kung Fu Master
 
@@ -18,7 +34,7 @@ This repository contains a collection of Colab notebooks demonstrating various R
 **Goal**: Safely land the lunar module on the surface of the moon by controlling its descent. The agent must learn to apply thrusters at the right moments to achieve a soft landing at the designated spot.  
 **Colab Notebook**: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1tCVgMSGpgeSafpUNDd9gmyBGSXXwa0z3?usp=sharing)
 
-## Pacman with Reinforcement Learning
+## Pacman with Deep Q-Networks
 
 **Environment**: Pacman  
 **Algorithm**: Deep Q-Network (DQN)  
