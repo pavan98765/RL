@@ -6,19 +6,19 @@ This repository contains a collection of Colab notebooks demonstrating various R
 
 ### A3C on Kung Fu Master
 
-![img](results/KungFu_gif.gif)
+<img src="results/KungFu_gif.gif" width="600" height="300" alt="Alt text">
 
 ### Lunar Landing with Deep Q-Networks
 
-![img](results/moon_gif.gif)
+<img src="results/moon_gif.gif" width="600" height="300" alt="Alt text">
 
 ### Pacman with Deep Q-Networks
 
-![img](results/pacman_gif.gif)
+<img src="results/pacman_gif.gif" width="600" height="300" alt="Alt text">
 
 ### AWS deep racer - PPO
 
-<img src="results/aws_deep_racer_2_gif.gif" width="300" height="300" alt="Alt text">
+<img src="results/aws_deep_racer_2_gif.gif" width="600" height="300" alt="Alt text">
 
 ## A3C on Kung Fu Master
 
