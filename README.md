@@ -10,6 +10,8 @@ This repository contains a collection of Colab notebooks demonstrating various R
 
 ![img](results/gifs/KungFu.gif)
 
+![img](results/bruce_ai.jpg)
+
 ### Lunar Landing with Deep Q-Networks
 
 <img src="results/gifs/moon.gif" width="300" height="300" alt="Alt text">
