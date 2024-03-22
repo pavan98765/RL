@@ -18,7 +18,7 @@ This repository contains a collection of Colab notebooks demonstrating various R
 
 ### AWS deep racer - PPO
 
-![img](results/aws_deep_racer_2_gif.gif)
+<img src="results/aws_deep_racer_2_gif.gif" width="300" height="300" alt="Alt text">
 
 ## A3C on Kung Fu Master
 
